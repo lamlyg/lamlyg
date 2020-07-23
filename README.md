@@ -1,17 +1,17 @@
 ## To become a competent developer 👩‍💻
 
 ### 💻 Projects
-- [Deep learning analysis research for health monitoring in daily life](https://github.com/KW-Semicolon/Android)
-- [Smoking cessation helper mobile application](https://github.com/lamlyg/dr24-android)
-- [Snack shopping mall web application](https://github.com/lamlyg/Hansel-and-Gretel)
-- [Lost property management system on campus](https://github.com/lamlyg/Mulcam-TeamProject)
+- 🩺 [Deep learning analysis research for health monitoring in daily life](https://github.com/KW-Semicolon/Android)
+- 🚭 [Smoking cessation helper mobile application](https://github.com/lamlyg/dr24-android)
+- 🛒 [Snack shopping mall web application](https://github.com/lamlyg/Hansel-and-Gretel)
+- 🏫 [Lost property management system on campus](https://github.com/lamlyg/Mulcam-TeamProject)
 
 ### 🔥 Study & Training
-- [Algorithm](https://github.com/lamlyg/Algorithm) | [JAVA](https://github.com/lamlyg/java_practice) | [Flutter](https://github.com/lamlyg/Netflix) | [Facebook Chatbot](https://github.com/lamlyg/Chatbot-w-python) | [NodeJS](https://github.com/lamlyg/basic-web-node) | [Spring](https://github.com/lamlyg/spring-board-project) | ReactJS : [Simple note app](https://github.com/lamlyg/Simple-note-app), [Pokemon Book](https://github.com/lamlyg/Pokebook-app) | ... etc
+[Algorithm](https://github.com/lamlyg/Algorithm) | [JAVA](https://github.com/lamlyg/java_practice) | [Flutter](https://github.com/lamlyg/Netflix) | [NodeJS](https://github.com/lamlyg/basic-web-node) | [Spring](https://github.com/lamlyg/spring-board-project) | [ReactJS](https://github.com/lamlyg/Pokebook-app) | [Chatbot](https://github.com/lamlyg/Chatbot-w-python) | ... etc
 
 ### 🌊 Interested in
-- App development (Mobile App & Web) (Especially, Android)
-- JAVA, C++
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/lamlyg)](https://github.com/lamlyg) [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/lamlyg) [![Android](https://img.shields.io/badge/Android-green?style=flat&logo=android&logoColor=white&link=https://github.com/lamlyg)](https://github.com/lamlyg) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/lamlyg)](https://github.com/lamlyg) 
+
 
 <!--
 
