@@ -7,14 +7,7 @@
 - [Lost property management system on campus](https://github.com/lamlyg/Mulcam-TeamProject)
 
 ### 🔥 Study & Training
-- [Algorithm](https://github.com/lamlyg/Algorithm)
-- [JAVA](https://github.com/lamlyg/java_practice)
-- [Flutter](https://github.com/lamlyg/Netflix)
-- [Facebook Chatbot](https://github.com/lamlyg/Chatbot-w-python)
-- [NodeJS](https://github.com/lamlyg/basic-web-node)
-- [Spring](https://github.com/lamlyg/spring-board-project)
-- ReactJS : [Simple note app](https://github.com/lamlyg/Simple-note-app), [Pokemon Book](https://github.com/lamlyg/Pokebook-app)
-- ... etc
+- [Algorithm](https://github.com/lamlyg/Algorithm) | [JAVA](https://github.com/lamlyg/java_practice) | [Flutter](https://github.com/lamlyg/Netflix) | [Facebook Chatbot](https://github.com/lamlyg/Chatbot-w-python) | [NodeJS](https://github.com/lamlyg/basic-web-node) | [Spring](https://github.com/lamlyg/spring-board-project) | ReactJS : [Simple note app](https://github.com/lamlyg/Simple-note-app), [Pokemon Book](https://github.com/lamlyg/Pokebook-app) | ... etc
 
 ### 🌊 Interested in
 - App development (Mobile App & Web) (Especially, Android)
